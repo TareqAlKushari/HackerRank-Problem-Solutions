@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1655132709 source:d:\my_progict\code_blocks\hackerrank\string\main.cpp
+	<sstream>
+	<vector>
+	<iostream>
+	<string.h>
+	<iomanip>
+	<cstring>
+
